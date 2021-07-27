@@ -1,0 +1,32 @@
+ Levels = [{
+    link: "https://firebasestorage.googleapis.com/v0/b/speedlearning-fbd64.appspot.com/o/L0F.mp4?alt=media&token=1310c23c-dde2-4e50-b2b7-617dc1aa902c",
+    videoName:'L0',
+    lesson: { title: 'Hello World', lessonText: 'Use the "print" function to print the line "Hey, <your name>, let’s protect our mother nature !"', imagebackground: require('../../assets/greencod.jpg'), keyword: 'print', beforeInput: '("Hey', afterInput: ', let us protect our mother nature !"' },
+    output: { backgroundColor: "#79C02D", textBeforeInput: "Hey ", textAfterInput: " let us protect our mother nature!" },
+    checkFunction: this.L1_function
+  },
+
+  {
+    link: "https://firebasestorage.googleapis.com/v0/b/speedlearning-fbd64.appspot.com/o/L0F.mp4?alt=media&token=1310c23c-dde2-4e50-b2b7-617dc1aa902c",
+    videoName:'L1',
+    lesson: { title: 'Integer', lessonText: "Use the type int to write the given quantities (natural numbers).", imagebackground: require('../../assets/bluecod.jpg'), keyword: 'myint=', beforeInput: ' ', afterInput: 'print("Our solar system is made up of", myint,"planets")' },
+    output: { backgroundColor: "#31C9F7", textBeforeInput: "Our solar system is made up of ", textAfterInput: " planets" },
+    checkFunction: this.L2_function
+  },
+  {
+    link: "https://firebasestorage.googleapis.com/v0/b/speedlearning-fbd64.appspot.com/o/L0F.mp4?alt=media&token=1310c23c-dde2-4e50-b2b7-617dc1aa902c",
+    videoName:'L2',
+    lesson: { title: 'Floats', lessonText: 'Use the type "float" to write the given quantities (all type of numbers)."', imagebackground: require('../../assets/greencod.jpg'), keyword: 'myfloat=', beforeInput: ' ', afterInput: 'print(myfloat)' },
+    output: { backgroundColor: "#79C02D", textBeforeInput: " ", textAfterInput: " " },
+    checkFunction: this.L3_function
+  },
+  {
+    link: "https://firebasestorage.googleapis.com/v0/b/speedlearning-fbd64.appspot.com/o/L0F.mp4?alt=media&token=1310c23c-dde2-4e50-b2b7-617dc1aa902c",
+    videoName:'L3',
+    lesson: { title: 'Strings', lessonText: 'Use ‘string’ type to store a sequence of characters (in our case name a wild animal)', imagebackground: require('../../assets/bluecod.jpg'), keyword: 'mystring=', beforeInput: '', afterInput: "print(mystring ,'is a wild animal')" },
+    output: { backgroundColor: "#31C9F7", textBeforeInput: "", textAfterInput: " is a wild animal" },
+    checkFunction: this.L4_function
+  }
+
+
+  ]

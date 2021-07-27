@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "809074868820",
+    "firebase_url": "https://speedlearning-fbd64-default-rtdb.firebaseio.com",
+    "project_id": "speedlearning-fbd64",
+    "storage_bucket": "speedlearning-fbd64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809074868820:android:60c971d32e435c48d6a3c1",
+        "android_client_info": {
+          "package_name": "com.envipeace2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809074868820-9cqj2dvjvcmvpa4k8ptgsb1ee138qgpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9oFqjmv5zNSx9Vj6xqOzMuEiZJJOj4vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809074868820-9cqj2dvjvcmvpa4k8ptgsb1ee138qgpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809074868820:android:6695b9b48f167bf3d6a3c1",
+        "android_client_info": {
+          "package_name": "com.firestoretuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809074868820-9cqj2dvjvcmvpa4k8ptgsb1ee138qgpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9oFqjmv5zNSx9Vj6xqOzMuEiZJJOj4vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809074868820-9cqj2dvjvcmvpa4k8ptgsb1ee138qgpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
