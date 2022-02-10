@@ -54,7 +54,7 @@
 
 ENVIPEACE JUNIOR is a cross platform mobile application which is aiming to sensitize children towards the environment through interactive educational content.
 
-This Project was designed during the Moroccan IOT and AI challenge where this last wons the third national prize.
+This Project was designed during the Moroccan IOT and AI challenge where the latter won the third national prize.
 
 The application contains three main rubrics:
 * quizzes 
